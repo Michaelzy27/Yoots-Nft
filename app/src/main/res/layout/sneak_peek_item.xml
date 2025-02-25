@@ -12,13 +12,13 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#3d7067"
+        android:background="#fbdde4"
         android:paddingBottom="20dp">
 
         <ImageView
             android:id="@+id/sneak_image"
-            android:layout_width="215dp"
-            android:layout_height="200dp"
+            android:layout_width="250dp"
+            android:layout_height="220dp"
             android:layout_marginTop="24dp"
             android:scaleType="fitXY"
             app:layout_constraintEnd_toEndOf="parent"
@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/dm_sans_bold"
             android:text="Sneak Peek #1"
-            android:textColor="#fcffa8"
+            android:textColor="#de0727"
             android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"

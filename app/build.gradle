@@ -3,9 +3,9 @@ apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.2"
 
     defaultConfig {
+        namespace("com.michael.passy_exchange_beta")
         applicationId "com.michael.passy_exchange_beta"
         minSdkVersion 24
         targetSdkVersion 30

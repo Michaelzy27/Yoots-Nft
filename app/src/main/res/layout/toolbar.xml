@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/toolbar"
-    android:background="#10507A"
+    android:background="#f47c9b"
     local:popupTheme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
     local:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 

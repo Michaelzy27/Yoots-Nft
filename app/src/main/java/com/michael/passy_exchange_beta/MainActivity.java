@@ -19,7 +19,6 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.michael.passy_exchange_beta.ui.Notifications.UserNotificationFragment;
 
@@ -67,10 +66,10 @@ public class MainActivity extends AppCompatActivity {
 
         NavItem[] drawerItem = new NavItem[5];
 
-        drawerItem[0] = new NavItem("Yootopia", R.drawable.dashboard);
-        drawerItem[1] = new NavItem("Sneak Peeks", R.drawable.dashboard);
+        drawerItem[0] = new NavItem("Metora", R.drawable.dashboard);
+        drawerItem[1] = new NavItem("Bosu Art", R.drawable.dashboard);
         drawerItem[2] = new NavItem("Your Profile", R.drawable.post);
-        drawerItem[3] = new NavItem("Events", R.drawable.post);
+        drawerItem[3] = new NavItem("Whitelist Progress", R.drawable.post);
         drawerItem[4] = new NavItem("Logout", R.drawable.ic_outline_exit_to_app_24);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
         getSupportActionBar().setHomeButtonEnabled(true);
