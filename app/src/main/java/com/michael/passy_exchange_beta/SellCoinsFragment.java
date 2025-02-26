@@ -101,19 +101,19 @@ public class SellCoinsFragment extends Fragment {
 
     private List<SneakModel> list() {
         List<SneakModel> sneakList = new ArrayList<>();
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots5));
-        sneakList.add(new SneakModel("Sneak peek #2", R.drawable.yoots6));
-        sneakList.add(new SneakModel("Sneak peek #3", R.drawable.yoots7));
-        sneakList.add(new SneakModel("Sneak peek #1", R.drawable.yoots8));
-        sneakList.add(new SneakModel("Sneak peek #4", R.drawable.yoots19));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots10));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots11));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots12));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots13));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots14));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots15));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots16));
-        sneakList.add(new SneakModel("Sneak peek #5", R.drawable.yoots4));
+        sneakList.add(new SneakModel("Fan art by @shubhh_hum", R.drawable.bosu_fan_art1));
+        sneakList.add(new SneakModel("Fan art by @Mithereum", R.drawable.bosu_fan_art2));
+        sneakList.add(new SneakModel("Fan art by @Kingvane", R.drawable.bosu_fan_art3));
+        sneakList.add(new SneakModel("Fan art by @Alberta", R.drawable.bosu_fan_art4));
+        sneakList.add(new SneakModel("Fan art by @HOODIETH", R.drawable.bosu_fan_art5));
+        sneakList.add(new SneakModel("Fan art by @mirza194", R.drawable.bosu_fan_art6));
+        sneakList.add(new SneakModel("Fan art by @shamz3645", R.drawable.bosu_fan_art7));
+        sneakList.add(new SneakModel("Team art - What's that", R.drawable.team_art_whatsthat));
+        sneakList.add(new SneakModel("Team art - Back To Metora", R.drawable.team_art_backtometora));
+        sneakList.add(new SneakModel("Team Art - I'm Dead", R.drawable.team_art_imdead));
+        sneakList.add(new SneakModel("Team art - Respawn Express", R.drawable.team_art_respawnexpress));
+        sneakList.add(new SneakModel("Team art - Save her", R.drawable.team_art_saveher));
+        sneakList.add(new SneakModel("Team art - Travel", R.drawable.finalbosu1));
 
 
         return sneakList;

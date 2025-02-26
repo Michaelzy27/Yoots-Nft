@@ -33,7 +33,7 @@
         android:layout_width="240dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="#10507A"
+        android:background="#e71d55"
         android:orientation="vertical"
         android:padding="32dp">
 
@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="16dp"
-            android:text="Hello Yoot!"
+            android:text="Hello Bosu!"
             android:textColor="#fff"
             android:textSize="18sp" />
 
@@ -52,7 +52,7 @@
             android:layout_height="140dp"
             android:layout_gravity="center"
             android:contentDescription="@string/profile_img"
-            android:src="@drawable/sneak_peek3" />
+            android:src="@drawable/finalbosu5" />
 
         <TextView
             android:id="@+id/name_nav_bar"

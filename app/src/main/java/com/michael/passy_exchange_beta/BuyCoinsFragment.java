@@ -157,7 +157,7 @@ public class BuyCoinsFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_buy_coins, container, false);
-        timer = view.findViewById(R.id.time);
+        //timer = view.findViewById(R.id.time);
 
 //        taskRecycler = view.findViewById(R.id.tasks_recycler);
 //        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this.getContext(), LinearLayoutManager.VERTICAL, false);
